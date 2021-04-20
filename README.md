@@ -25,3 +25,5 @@ Kapag may clone tska may branch
 - git checkout -b <branch name>
 - git add . && git commit -m 
 - git push --set-upstream origin <branch name> (sa una lang gagawin kapag bago branch)
+
+# Learn more buddy!
