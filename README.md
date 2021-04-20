@@ -17,7 +17,7 @@ Kapag bago yung file tapos ilalagay sa GITHUB
 - git remote add origin <url>
 - git add /git rm --cached <filename> (pag tanggal ng file)
 - git commit -m "Message"
-- git push 0u origin master (gagawin lang to sa unang commit)
+- git push -u origin master (gagawin lang to sa unang commit)
 
 
 Kapag may clone tska may branch
@@ -26,4 +26,6 @@ Kapag may clone tska may branch
 - git add . && git commit -m 
 - git push --set-upstream origin <branch name> (sa una lang gagawin kapag bago branch)
 
+Kapag merge naman click mo yung pull request tapos lagay mo yung mga commits mo,
+- click merge tapos approve merge na button
 # Learn more buddy!
