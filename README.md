@@ -28,4 +28,7 @@ Kapag may clone tska may branch
 
 Kapag merge naman click mo yung pull request tapos lagay mo yung mga commits mo,
 - click merge tapos approve merge na button
+
+To remove origin
+-git remote remove origin
 # Learn more buddy!
